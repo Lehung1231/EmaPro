@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "JS Nâng Cao",
+      "link": "https://github.com/Lehung1231/Js-n-ng-cao",
+      "content": "Dự án WEB đặt lịch xe ô tô được làm trong 4 tháng bằng JS,HTML,CSS,PHP, hứa hẹn sẽ mang đến trải nghiệm tuyệt với đến với người dùng . . . ",
+      "categoryId": "1",
+      "image": "/images/tải xuống (1).png"
+    },
+    {
+      "id": 2,
+      "name": "Dự án 1",
+      "link": "https://github.com/LongThanh2409/Du_An_1",
+      "content": "Dự án WEB đặt lịch xe ô tô được làm trong 4 tháng bằng JS,HTML,CSS,PHP, hứa hẹn sẽ mang đến trải nghiệm tuyệt với đến với người dùng . . . ",
+      "categoryId": "2",
+      "image": "/images/why-is-project-management-important-header@2x.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "HTML,CSS"
+    },
+    {
+      "id": "2",
+      "name": "Javascript"
+    },
+    {
+      "id": "3",
+      "name": "SQL,PHP"
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "title": "hehe"
+    }
+  ]
+}
